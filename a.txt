@@ -1,6 +1,5 @@
-i
-wewewesewea
+viod main(){
 
-
-
-a
+  init();
+  int d = 1;
+}
